@@ -1,0 +1,32 @@
+.navBar {
+  width: 100vw;
+  height: 7vh;
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: whitesmoke;
+}
+
+.link {
+  margin-right: 20px;
+  font-size: 17px;
+  text-decoration: none;
+  color: whitesmoke;
+}
+
+.linkActive {
+  margin-right: 10px;
+  font-size: 17px;
+  text-decoration: underline;
+}
+
+.logout {
+  border-radius: 10px;
+  font-weight: bold;
+  padding: 5px 20px;
+}
+
+.username {
+  color: whitesmoke;
+}
